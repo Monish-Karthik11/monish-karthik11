@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/101971617/233703855-8e04cd8d-1c1e-4600-9dca-3aa9cacaac76.png" alt="ria-monga" height="400" style="max-width: 100%;">
  # 💫 About Me:
-🔭 I’m currently studying at Gitam University Banglore<br><br>🌱 I’m currently learning Java Spring Boot<br><br>👯 I’m looking to collaborate on JavaScript<br><br>🤝 I’m looking for help with ReactJS<br><br>💬 Ask me about HTML<br><br>📫 How to reach me monishkarthik08@gmail.com<br><br>⚡ Fun fact I am Funny
+🔭 I am a graduate at Gitam University Banglore<br><br>🌱 I’m currently learning Java Spring Boot<br><br>👯 I’m looking to collaborate on JavaScript<br><br>🤝 I’m looking for help with ReactJS<br><br>💬 Ask me about HTML<br><br>📫 How to reach me monishkarthik08@gmail.com<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
@@ -24,7 +24,6 @@
  
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=monish-karthik11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monish-karthik11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-karthik11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

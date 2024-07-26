@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/101971617/233703855-8e04cd8d-1c1e-4600-9dca-3aa9cacaac76.png" alt="ria-monga" height="400" style="max-width: 100%;">
  # 💫 About Me:
-🔭 I am a graduate at Gitam University Banglore<br><br>🌱 I’m currently learning Java Spring Boot<br><br>👯 I’m looking to collaborate on JavaScript<br><br>🤝 I’m looking for help with ReactJS<br><br>💬 Ask me about HTML<br><br>📫 How to reach me monishkarthik08@gmail.com<br><br>⚡ Fun fact I am Funny
+🔭 I am a graduate at Gitam University Bengaluru<br><br>🌱 I’m currently learning Java Spring Boot<br><br>👯 I’m looking to collaborate on JavaScript<br><br>🤝 I’m looking for help with ReactJS<br><br>💬 Ask me about HTML<br><br>📫 How to reach me monishkarthik08@gmail.com<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
